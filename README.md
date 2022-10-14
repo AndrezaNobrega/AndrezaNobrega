@@ -8,10 +8,10 @@
 ##
 
 <div align="center">
-  <a href="https://github.com/andrezanobrega">
-<img width="40%" src="https://github-readme-stats.vercel.app/api?username=andrezanobrega&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrezanobrega&layout=compact&langs_count=7&theme=dark"/>
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false&username=andrezanobrega" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false&username=andrezanobrega" height="150" alt="languages graph"  />
 </div>
+
 
 ##
 
@@ -29,7 +29,7 @@
 
 ###
 
-![snake animation](https://github.com/<andrezanobrega>/<andrezanobrega>/blob/output/github-contribution-grid-snake2.svg)
+<img src="https://raw.githubusercontent.com/andrezanobrega/andrezanobrega/blob/output/snake.svg" alt="Snake animation" />
 
 ###
 
