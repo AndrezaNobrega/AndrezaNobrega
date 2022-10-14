@@ -31,7 +31,6 @@
 
 <img src="https://raw.githubusercontent.com/andrezanobrega/andrezanobrega/blob/output/snake.svg" alt="Snake animation" />
 
-###
 
   ##
   
