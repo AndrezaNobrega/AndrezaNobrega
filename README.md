@@ -29,7 +29,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/andrezanobrega/andrezanobrega/blob/output/snake.svg" alt="Snake animation" />
+![snake animation](https://github.com/<andrezanobrega>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
 
 ###
 
