@@ -9,21 +9,29 @@
 
 <div align="center">
   <a href="https://github.com/andrezanobrega">
-<img width="42%" src="https://github-readme-stats.vercel.app/api?username=andrezanobrega&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrezanobrega&layout=compact&langs_count=7&theme=dark"/>
+<img width="40%" src="https://github-readme-stats.vercel.app/api?username=andrezanobrega&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrezanobrega&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 ##
 
-<div style="display: inline_block"><br> 
-    <p align="center">
-    <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" height="30" width="40" src="https://github.com/mirmat/iconsfordevs/blob/master/!SVG/java.svg">
-    <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">  
-    </p>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" width="42" alt="bootstrap logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" width="42" alt="canva logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" width="42" alt="figma logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="30" width="42" alt="gimp logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="42" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/andrezanobrega/andrezanobrega/blob/output/snake.svg" alt="Snake animation" />
+
+###
 
   ##
   
