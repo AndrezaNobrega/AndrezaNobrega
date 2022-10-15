@@ -29,10 +29,6 @@
 
 ###
 
-![Snake animation](https://github.com//AndrezaNobrega//AndrezaNobrega/blob/output/github-contribution-grid-snake.svg)
-
-
-  ##
   
   <div> 
   <p align="center">
