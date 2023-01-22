@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on Front End in personal projects
-- 🌱 I’m currently learning HTML, CSS and React
+- 🌱 I’m currently learning React
 
 ##
 
