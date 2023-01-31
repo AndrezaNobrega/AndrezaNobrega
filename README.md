@@ -1,7 +1,7 @@
 ### Hi there, I'm Andreza!
 
 
-
+- 👩🏻‍🎓 Computer Engineer at Universidade Estadual de Feira de Santana (UEFS)
 - 🔭 I’m currently working on Front End in personal projects
 - 🌱 I’m currently learning React
 
