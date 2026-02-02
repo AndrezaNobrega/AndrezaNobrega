@@ -1,7 +1,7 @@
 ### Hi there, I'm Andreza!
 
 
-- 👩🏻‍🎓 Computer Engineer Studente at Universidade Estadual de Feira de Santana (UEFS)
+- 👩🏻‍🎓 Computer Engineer Student at Universidade Estadual de Feira de Santana (UEFS)
 - 🌱 I'm enhancing my skills in React.js and React Native, while also studying blockchain with a focus on the Hyperledger Fabric framework.
 
 ##
