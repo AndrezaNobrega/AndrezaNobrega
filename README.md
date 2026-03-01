@@ -1,31 +1,51 @@
-### Hi there, I'm Andreza!
+# 👋 Hi, I'm Andreza Nóbrega
 
+🚀 Frontend & Mobile Engineer | React & React Native  
+💳 Building high-availability applications with focus on performance, scalability and product impact.
 
-- 👩🏻‍🎓 Computer Engineer Student at Universidade Estadual de Feira de Santana (UEFS)
-- 🌱 I'm enhancing my skills in React.js and React Native, while also studying blockchain with a focus on the Hyperledger Fabric framework.
+---
 
-##
+## 👩🏻‍💻 About Me
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false&username=andrezanobrega" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false&username=andrezanobrega" height="150" alt="languages graph"  />
-</div>
+Computer Engineering student at UEFS with +3 years of professional experience developing web and mobile applications.
 
+I work mainly with React, React Native and TypeScript, building production systems used by thousands of users.  
+Experienced in performance optimization, state management, API integrations and code architecture improvements.
 
-##
+Currently interested in:
+- Scalable frontend architecture
+- Mobile performance engineering
+- Financial and payment systems
+- Blockchain & Hyperledger Fabric
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
-</div>
+---
 
-###
+## 🛠 Tech Stack
 
-  
-  <div> 
-  <p align="center">
-    <a href = "mailto:ancarvalho@ecomp.uefs.br "><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/andrezanobrega" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  </p>  
-</div>
+**Frontend & Mobile**
+- React.js
+- React Native
+- TypeScript
+- JavaScript (ES6+)
+
+**Backend & Others**
+- Node.js
+- REST APIs
+- SQL
+- Python
+
+---
+
+## 📌 What I’ve Worked On
+
+- 📱 Financial mobile applications (50k+ downloads)
+- 💳 Payment & POS system integrations
+- 🔄 Performance refactoring in production apps
+- 🧪 Code reviews and architecture improvements
+
+---
+
+## 📫 Let's Connect
+
+- 📧 ancarvalho@ecomp.uefs.br
+- 💼 linkedin.com/in/andrezanobrega
