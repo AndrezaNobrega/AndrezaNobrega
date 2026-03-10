@@ -1,51 +1,45 @@
 # 👋 Hi, I'm Andreza Nóbrega
 
-🚀 Frontend & Mobile Engineer | React & React Native  
+🚀 Fullstack & Mobile Engineer | React & React Native  
 💳 Building high-availability applications with focus on performance, scalability and product impact.
 
 ---
 
 ## 👩🏻‍💻 About Me
 
-Computer Engineering student at UEFS with +3 years of professional experience developing web and mobile applications.
+🎓 Computer Engineering student at UEFS  
+💼 +4 years building **web & mobile apps** for thousands of users
 
-I work mainly with React, React Native and TypeScript, building production systems used by thousands of users.  
-Experienced in performance optimization, state management, API integrations and code architecture improvements.
-
-Currently interested in:
-- Scalable frontend architecture
-- Mobile performance engineering
-- Financial and payment systems
+💡 Skills & Interests:
+- React, React Native & TypeScript
+- Mobile & frontend performance
+- Scalable architecture & state management
+- Financial & payment systems
 - Blockchain & Hyperledger Fabric
 
 ---
 
 ## 🛠 Tech Stack
 
-**Frontend & Mobile**
-- React.js
-- React Native
-- TypeScript
-- JavaScript (ES6+)
+### Frontend & Mobile
+<kbd>React.js</kbd> <kbd>React Native</kbd> <kbd>TypeScript</kbd> <kbd>JavaScript</kbd>
 
-**Backend & Others**
-- Node.js
-- REST APIs
-- SQL
-- Python
+### Backend & Others
+<kbd>Node.js</kbd> <kbd>REST APIs</kbd> <kbd>SQL</kbd> <kbd>Python</kbd>
 
 ---
 
-## 📌 What I’ve Worked On
+## 📌 Projects & Highlights
 
-- 📱 Financial mobile applications (50k+ downloads)
-- 💳 Payment & POS system integrations
-- 🔄 Performance refactoring in production apps
-- 🧪 Code reviews and architecture improvements
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <kbd>📱 Financial Mobile Apps (50k+ downloads)</kbd>
+  <kbd>💳 Payment & POS Integrations</kbd>
+  <kbd>🔄 Performance Refactoring</kbd>
+  <kbd>🧪 Code Reviews & Architecture</kbd>
+</div>
 
 ---
 
 ## 📫 Let's Connect
 
-- 📧 ancarvalho@ecomp.uefs.br
-- 💼 linkedin.com/in/andrezanobrega
+[📧 Email](mailto:ancarvalho@ecomp.uefs.br) | [💼 LinkedIn](https://linkedin.com/in/andrezanobrega)
